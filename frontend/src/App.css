@@ -34,8 +34,10 @@
   border-radius: 2rem;
   background-color: var(--glass);
   overflow: hidden;
-  grid-template-columns: 11rem auto 20rem;
+  grid-template-columns: 12rem auto;
   gap: 10px;
+  /* margin-top: 200px; */
+  /* margin: 7% 15px 0px 5px; */
   
 }
 
